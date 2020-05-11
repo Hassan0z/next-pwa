@@ -1,5 +1,5 @@
 {
-  "name": "next-pwa",
+  "name": "next-pwa-example",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "next": "9.3.6",
+    "next-pwa": "^2.4.0",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   }
